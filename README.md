@@ -47,14 +47,6 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🧪 Example
-
-| Upload Image | Result |
-|--------------|--------|
-| ![upload](images/sample_upload.jpg) | ![result](images/sample_result.jpg) |
-
----
-
 ## 📁 File Structure
 
 ```
