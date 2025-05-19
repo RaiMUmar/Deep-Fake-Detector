@@ -1,6 +1,6 @@
-# 🕵️ DeepTruth: Vision Transformer-Based Deepfake Detector
+# 🕵️ Deep Fake Detector
 
-DeepTruth is a lightweight, real-time image-based deepfake detector built with a pretrained Vision Transformer (ViT) model and an intuitive Streamlit UI.
+Deep-Fake-Detector is a lightweight, real-time image-based deepfake detector built with a pretrained Vision Transformer (ViT) model and an intuitive Streamlit UI.
 
 It uses the fine-tuned [prithivMLmods/Deep-Fake-Detector-Model](https://huggingface.co/prithivMLmods/Deep-Fake-Detector-Model) from Hugging Face to classify images as **"Real"** or **"Fake"**.
 
